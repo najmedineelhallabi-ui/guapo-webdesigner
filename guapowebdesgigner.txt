@@ -1,0 +1,27 @@
+guapo-website/
+├── App.tsx
+├── DEPLOY.md
+├── index.html
+├── package.json
+├── translations.ts
+├── tsconfig.json
+├── tsconfig.node.json
+├── vercel.json
+├── vite.config.ts
+├── components/
+│   ├── About.tsx
+│   ├── Contact.tsx
+│   ├── Footer.tsx
+│   ├── Header.tsx
+│   ├── Hero.tsx
+│   ├── MarbleLines.tsx
+│   ├── Portfolio.tsx
+│   ├── QuoteForm.tsx
+│   ├── SEOHead.tsx
+│   └── Services.tsx
+├── contexts/
+│   └── LanguageContext.tsx
+├── src/
+│   └── main.tsx
+└── styles/
+    └── globals.css
